@@ -37,4 +37,4 @@ function countDown(){
         countDown --;
         console.log(countDown);
     }
-}
+} 
